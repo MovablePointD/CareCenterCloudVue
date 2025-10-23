@@ -2,7 +2,7 @@
 
 0. 写在前面
 
-​    这是[MovablePointD/SpringBoot-2-S.Cloud-Demo](https://github.com/MovablePointD/SpringBoot-2-S.Cloud-Demo) 项目的前端部分
+​    这是[MovablePointD/CareCenterCloud](https://github.com/MovablePointD/CareCenterCloud) 项目的前端部分
 
 1. 运行环境
    * 支持vue3架构的Nodejs版本和npm版本
